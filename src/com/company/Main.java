@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Thanks bro!");
         System.out.println("Started");
+        System.out.println("上三楼，上三楼，我在三楼最东头。");
     }
 }
